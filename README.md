@@ -38,9 +38,7 @@
 ### Languages
 | JS | C++ | C | 
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | 
-<img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
 
 
 ### Frontend Development
