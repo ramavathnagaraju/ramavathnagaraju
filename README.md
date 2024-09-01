@@ -35,14 +35,14 @@
 </p>
 <div>
 
-# Leetcode
+### Leetcode
 
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 
-## 💻 Coding Profiles
+### 💻 Coding Profiles
 
- # LeetCode: [nagarajucse036](https://leetcode.com/nagarajucse036/)
+ ### LeetCode: [nagarajucse036](https://leetcode.com/nagarajucse036/)
 
 ### Languages
 | JS | C++ | C | 
