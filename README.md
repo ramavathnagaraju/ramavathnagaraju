@@ -79,7 +79,15 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="windows" alt="windows" width="55" height="55"/> |
 </div>
 
+### 👨‍💻 System Fundamenals
 
+<span>
+  <a href="https://github.com/ramavathnagaraju">
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Operating System%20-%23E34F26.svg?&style=for-the-badge&logo=Operating System&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/DBMS%20-%231572B6.svg?&style=for-the-badge&logo=DBMS&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Computer Networking%20-%23323330.svg?&style=for-the-badge&logo=ComputerNetworking&logoColor=%23F7DF1E"/>
+  </span>
+    
 <br><br>
 
 <p align="center">
