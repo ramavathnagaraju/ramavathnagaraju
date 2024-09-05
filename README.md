@@ -116,6 +116,12 @@
     <tr align="center">
         <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramavathnagaraju&theme=vision-friendly-dark" alt="ramavathnagaraju" /></td>
     </tr>
+   <tr align="center">
+        <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramavathnagaraju&theme=github_dark"/></td>
+    </tr>
+    <tr align="center">
+        <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramavathnagaraju&theme=vision-friendly-dark" alt="ramavathnagaraju" /></td>
+    </tr>
 </table>
   
   
