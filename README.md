@@ -37,7 +37,7 @@
 
 ### Leetcode
 
-<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="300" height="300" />
+<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="350" height="250" />
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 
