@@ -35,9 +35,6 @@
 </p>
 <div>
 
-
-<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="400" height="250" />
-
 ### Leetcode
 
 
