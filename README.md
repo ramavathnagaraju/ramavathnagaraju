@@ -114,14 +114,14 @@
 
 <table align="center" border="1">
     <tr align="center">
+        <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavathnagaraju&theme=vision-friendly-dark&show_icons=true" /></td>
+    </tr>
+    <tr align="center">
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramavathnagaraju&theme=github_dark" /></td>
          <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramavathnagaraju&theme=vision-friendly-dark&show_icons=true" /></td>
         <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramavathnagaraju&theme=github_dark"/></td>
     </tr>
     <tr align="center">
-        <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavathnagaraju&theme=vision-friendly-dark&show_icons=true" /></td>
-    </tr>
-   <tr align="center">
         <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramavathnagaraju&theme=github_dark"/></td>
     </tr>
     <tr align="center">
