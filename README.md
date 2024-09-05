@@ -9,9 +9,8 @@
 </h1>
 
 
+<img align="right" alt="webp" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/human2.webp?raw=true" width="450" height="300" />
 
-<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="450" height="300" />
-  
   
 - 🔭 I’m currently learning **DSA with C++**  
   
@@ -59,7 +58,7 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="material ui" alt="material ui" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind"  alt="tailwind" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> |
 
 
-<img align="right" alt="webp" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/human2.webp?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="450" height="300" />
 
                                                                                                             
 ### Backend Development
