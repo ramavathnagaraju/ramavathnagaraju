@@ -57,7 +57,12 @@
 | React | Material UI | HTML | CSS | Tailwind | Bootstrap |
 |--------|-------|--------|-------|----------|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="material ui" alt="material ui" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind"  alt="tailwind" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> |
-
+<div>
+  <div>
+    About Me
+I’m currently studying Electronics and Communication Engineering at the National Institute of Technology Jaipur, with a focus on core subjects like Operating Systems,DBMS, Computer Networks, and Data Structures. Expected to graduate in 2026, I’m passionate about web development and skilled in C++, JavaScript, React.js, and Node.js. I have experience with MongoDB and open APIs, and I actively enhance my skills through daily coding on LeetCode.
+  </div>
+</div>
 
 ### Backend Development
 
