@@ -35,8 +35,9 @@
 </p>
 <div>
 
+
   
-<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="400" height="250" />
+<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="400" height="300" />
 
 ### Leetcode
 
