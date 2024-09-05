@@ -37,6 +37,7 @@
 
 ### Leetcode
 
+<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="350" height="300" />
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 
@@ -45,8 +46,6 @@
  ### LeetCode: [nagarajucse036](https://leetcode.com/nagarajucse036/)
 
    
-<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="350" height="300" />
-
 ### Languages
 | JS | C++ | C | 
 |----------|----------|----------|
