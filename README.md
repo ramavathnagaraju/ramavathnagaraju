@@ -10,7 +10,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="800" height="400" />
   
   
 - 🔭 I’m currently learning **DSA with C++**  
