@@ -48,7 +48,7 @@
 ### Languages
 | Embedded System | C++ | Python | 
 |----------|----------|----------|
-| <img src="https://images.credly.com/images/a78aa004-c58a-4d41-87da-ca7614fd8b76/Embeded_Systems_Badge.png" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> |
 
 
 ### Frontend Development
