@@ -43,7 +43,7 @@
 
 ### 💻 Coding Profiles
 
- ### LeetCode: [nagarajucse036](https://leetcode.com/nagarajucse036/)
+ ### LeetCode: [Click Here](https://leetcode.com/nagarajucse036/)
 
    
 ### Languages
