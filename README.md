@@ -25,7 +25,7 @@
 ### **Hardware Description Languages (HDLs)**
 | Verilog | SystemVerilog |
 |---------|--------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Verilog_logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/SystemVerilog_logo.svg" width="55" height="55"/> |
+| <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/SystemVerilog_logo.svg" width="55" height="55"/> |
 
 ### **EDA Tools & Simulators**
 | Xilinx Vivado | Cadence Virtuoso | ModelSim |
