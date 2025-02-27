@@ -30,7 +30,7 @@
 ### **EDA Tools & Simulators**
 | Xilinx Vivado | Cadence Virtuoso | ModelSim |
 |--------------|----------------|---------|
-| <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPapirusDevelopmentTeam%2Fpapirus-icon-theme%2Fissues%2F1615&psig=AOvVaw1TLPR1b3HjTmU_fJPJ6jgm&ust=1740718875988000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC8q6iJ44sDFQAAAAAdAAAAABAE" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Cadence_Design_Systems_logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/ModelSim_Logo.svg" width="55" height="55"/> |
+| <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Cadence_Design_Systems_logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/ModelSim_Logo.svg" width="55" height="55"/> |
 
 ### **Scripting & Programming**
 | Python | C++ | Bash |
