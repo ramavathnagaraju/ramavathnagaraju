@@ -109,16 +109,6 @@
  
 ---
 
-
-<br><br>
-
-<p align="center">
-  <h1 align="center">📫 How to reach me 🌏</h1>
-</p>
-
-| Mail   | Linkedin | Twitter |
-|--------|----------|---------|
-| <a href="mailto:nagarajucse036@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/nagaraju-ramavath-b67460282"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/Nagaraju888941"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> |
  
 
 <br><br>
