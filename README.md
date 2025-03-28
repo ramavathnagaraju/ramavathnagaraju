@@ -84,7 +84,7 @@
 ### Languages
 | System Verilog | Verilog | Python | C++ |
 |---------------|---------|--------|-----|
-| <img src="https://static-00.iconduck.com/assets.00/systemverilog-icon-474x512-k06u9utx.png" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Verilog_logo.svg" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |
+| <img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Verilog_logo.svg" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |
 
 ### Environments & Dev Tools
 
