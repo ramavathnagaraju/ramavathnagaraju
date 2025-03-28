@@ -1,76 +1,119 @@
-![MasterHead](00086-desk-anim-v0.3.gif)
-
+[![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h1 align="center">
-  Hi, Welcome to Ramavath Nagaraju's Profile!
+  Hi, Welcome to Ramavath Nagaraju profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+VLSI+Engineer;Digital+Design+%7C+ASIC+Verification+%7C+FPGA+Development"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ramavath+Nagaraju+😉;I'm+Self-taught+Programmer;"></a>
 </h1>
+
 
 <img align="right" alt="webp" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/human2.webp?raw=true" width="450" height="300" />
 
-- 🔭 I’m currently learning **UVM & FPGA Design**  
-- 💬 Ask me about **VLSI Design, ASIC Verification, and Digital Electronics**
-- 🔭 I’m currently working on **VLSI-based projects using Verilog/SystemVerilog**
-- 💼 I’m an **Aspiring VLSI Design & Verification Engineer**
-- 💞️ I’m looking to collaborate on **Digital Design & RTL Verification projects**
-- ⚡ Fun fact **I love debugging circuits as much as debugging code!**
+  
+- 🔭 I’m currently learning *DSA with C++*  
+  
+- 💬 Ask me about *Web Development*
+  
+- 🔭 I’m currently working on something cool!
 
----
+- 💼 I’m a *Software Developer*
+  
+- 👨‍💻 Hire Me as *Full Stack Developer*
+  
+- 💞 I’m looking to collaborate on exciting and innovative projects that algn with my skills and interests
+  
+- ⚡ Fun fact *I Think I love my computer, more then myself.*
 
-## ⚙️ Technical Skills
 
-### **Hardware Description Languages (HDLs)**
-| Verilog | SystemVerilog |
-|---------|--------------|
-| <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" width="55" height="55"/> | <img src="https://bmpenuelas.gallerycdn.vsassets.io/extensions/bmpenuelas/systemverilog-formatter-vscode/2.17.0/1686245997515/Microsoft.VisualStudio.Services.Icons.Default" width="55" height="55"/> |
+<br><br>
 
-### **EDA Tools & Simulators**
-| Xilinx Vivado | Cadence Virtuoso | ModelSim |
-|--------------|----------------|---------|
-| <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqx_P5du4N9m_TyQdh_Chwq5ks7ty9qLsTw&s" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuDW1n7ZFTEJEFL-Yqdg8nz8Js-c_6Oe50A&s" width="55" height="55"/> |
+<p align="center">
+  <h1 align="center">⚙ Languages and Tools</h1>
+</p>
+<div>
 
-### **Scripting & Programming**
-| Python | C++ | Bash |
-|--------|----|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="55" height="55"/> |
+### Leetcode
 
----
+<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="350" height="250" />
 
-## 🚀 VLSI Projects
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 
-### 🔹 **8-bit Hardwired Processor (Verilog, Xilinx Vivado)**  
-- Designed a functional 8-bit processor executing **14 MRI & 8 Non-MRI** instructions.
-- Implemented **direct & indirect addressing modes** for efficient memory access.
-- Optimized for **rapid execution** using hardcoded instruction sets.
+### 💻 Coding Profiles
 
-### 🔹 **SPI Communication Protocol Implementation (Verilog)**
-- Developed **Serial Peripheral Interface (SPI) Protocol** from scratch.
-- Focused on **clock phase, polarity configuration, and chip select handling**.
+ ### LeetCode: [Click Here](https://leetcode.com/nagarajucse036/)
 
-### 🔹 **Parameterized CRC Module (Verilog, Digital Design)**
-- Implemented a **configurable CRC module** supporting various polynomials.
-- Optimized computation time to be equal to **data length clock cycles**.
+   
+### Languages
+| C | C++ | Python | 
+|----------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> |
 
-### 🔹 **Epilepsy Detection Using AI & Cognitive Science (EEG Signal Processing)**
-- Applied **bandpass & notch filtering** to remove noise from EEG signals.
-- Developed an ML model achieving **98.52% accuracy** in seizure detection.
 
----
+### Frontend Development
 
-## 📫 How to Reach Me 🌍
+| React | Material UI | HTML | CSS | Tailwind | Bootstrap |
+|--------|-------|--------|-------|----------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="material ui" alt="material ui" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind"  alt="tailwind" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> |
 
-| Mail   | Linkedin | GitHub |
+
+<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="450" height="300" />
+
+                                                                                                            
+### Backend Development
+
+| Express | JS | NPM |
+|---------|------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> |
+
+
+### Databases
+
+| MongoDB | Mongoose | MySQL | 
+|---------|----------|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="mongoose" alt="mongoose" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="55" height="55"/>|
+</div>
+
+
+### Environments & Dev Tools
+
+| NodeJS | Git  | GitHub | Vs-Code | PowerShell | Win11 |
+|--------|-------|-------|---------|------------|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="windows" alt="windows" width="55" height="55"/> |
+</div>
+
+### 👨‍💻 System Fundamentals
+
+<span>
+  <a href="https://github.com/ramavathnagaraju">
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Operating System%20-%23E34F26.svg?&style=for-the-badge&logo=Operating System&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/DBMS%20-%231572B6.svg?&style=for-the-badge&logo=DBMS&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Computer Networking%20-%23323330.svg?&style=for-the-badge&logo=ComputerNetworking&logoColor=%23F7DF1E"/>
+  </span>
+    
+<br><br>
+
+<p align="center">
+  <h1 align="center">📫 How to reach me 🌏</h1>
+</p>
+
+| Mail   | Linkedin | Twitter |
 |--------|----------|---------|
-| <a href="mailto:nagarajucse036@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/nagaraju-ramavath-b67460282"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://github.com/ramavathnagaraju"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="55" height="55"/> </a> |
+| <a href="mailto:nagarajucse036@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/nagaraju-ramavath-b67460282"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/Nagaraju888941"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> |
+ 
 
----
+<br><br>
 
-## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramavathnagaraju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center">
+  <h1 align="center">📫 Summary Of My Github Status</h1>
+</p>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ramavathnagaraju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <table align="center" border="1">
     <tr align="center">
@@ -82,10 +125,28 @@
         <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramavathnagaraju&theme=github_dark"/></td>
     </tr>
     <tr align="center">
+        <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramavathnagaraju&theme=github_dark"/></td>
+    </tr>
+    <tr align="center">
         <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramavathnagaraju&theme=vision-friendly-dark" alt="ramavathnagaraju" /></td>
     </tr>
 </table>
+  
+  
+ <p align="center">
+  <h1 align="center">Summary Of My Github Live Graph</h1>
+</p>  
+        
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramavathnagaraju&theme=github_dark)
 
----
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramavathnagaraju&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-<h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
+  <h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
+</p>
