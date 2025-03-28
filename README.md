@@ -5,95 +5,65 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ramavath+Nagaraju+😉;I'm+Self-taught+Programmer;"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ramavath+Nagaraju+😉;I'm+VLSI+Design+and+Verification+Engineer;"></a>
 </h1>
-
 
 <img align="right" alt="webp" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/human2.webp?raw=true" width="450" height="300" />
 
-  
-- 🔭 I’m currently learning *DSA with C++*  
-  
-- 💬 Ask me about *Web Development*
-  
-- 🔭 I’m currently working on something cool!
+- 🔭 I’m currently learning **VLSI Design and Verification**  
+- 💬 Ask me about **RTL Design, Verification, and Digital Logic**  
+- 💼 I’m a **VLSI Engineer**  
+- 👨‍💻 Hire Me as **Design and Verification Engineer**  
+- 💞 I’m looking to collaborate on **exciting projects in VLSI and semiconductor domain**  
+- ⚡ Fun fact **I love debugging circuits as much as I love coding!**
 
-- 💼 I’m a *Software Developer*
-  
-- 👨‍💻 Hire Me as *Full Stack Developer*
-  
-- 💞 I’m looking to collaborate on exciting and innovative projects that algn with my skills and interests
-  
-- ⚡ Fun fact *I Think I love my computer, more then myself.*
+---
 
+## ⚙ Technical Skills
 
-<br><br>
+### Tools/Software’s
+- Extensive experience with **Questa Sim, Cadence Virtuoso, Synopsys VCS, Xilinx, GIT**
+
+### Programming Languages
+- Proficient in **System Verilog, Verilog, Python, C++**
+
+### Verification Methodologies
+- **Universal Verification Methodology (UVM), Assertion-Based Verification (ABV)**
+
+### Computer Architecture
+- **MIPS, Memory and Cache Coherency, Virtual Memory & Paging, Pipelining, Branch Prediction, DRAM**
+
+### Verification/RTL Skills
+- **RTL Design, Test Plan, UVM Testbench, Code/Functional Coverage, Digital Logic Design**
+- **Clock Domain Crossing (CDC), Object-Oriented Programming (OOP), Constrained Random Verification**
+- **System Verilog Assertions (SVA)**
+
+### Protocols
+- **I2C, UART, SPI, MESI, DDR**
+
+---
 
 <p align="center">
   <h1 align="center">⚙ Languages and Tools</h1>
 </p>
 <div>
 
-### Leetcode
+### Coding Profiles
 
-<img align="right" alt="jpg" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/user.jpg?raw=true" width="350" height="250" />
+#### LeetCode: [Click Here](https://leetcode.com/nagarajucse036/)
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
-
-### 💻 Coding Profiles
-
- ### LeetCode: [Click Here](https://leetcode.com/nagarajucse036/)
-
-   
 ### Languages
-| C | C++ | Python | 
-|----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> |
-
-
-### Frontend Development
-
-| React | Material UI | HTML | CSS | Tailwind | Bootstrap |
-|--------|-------|--------|-------|----------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="material ui" alt="material ui" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind"  alt="tailwind" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> |
-
-
-<img align="right" alt="GIF" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/new-Converted.gif?raw=true" width="450" height="300" />
-
-                                                                                                            
-### Backend Development
-
-| Express | JS | NPM |
-|---------|------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> |
-
-
-### Databases
-
-| MongoDB | Mongoose | MySQL | 
-|---------|----------|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="mongoose" alt="mongoose" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="55" height="55"/>|
-</div>
-
+| System Verilog | Verilog | Python | C++ |
+|---------------|---------|--------|-----|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SystemVerilog_logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Verilog_logo.svg" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" width="55" height="55"/> |
 
 ### Environments & Dev Tools
 
-| NodeJS | Git  | GitHub | Vs-Code | PowerShell | Win11 |
-|--------|-------|-------|---------|------------|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="windows" alt="windows" width="55" height="55"/> |
-</div>
+| Questa Sim | Cadence Virtuoso | Synopsys VCS | Xilinx | Git | Vs-Code |
+|-----------|----------------|-------------|--------|-----|--------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Mentor_Questa_logo.svg" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cadence_Logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Synopsys_logo.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xilinx_logo.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/> |
 
-### 👨‍💻 System Fundamentals
-
-<span>
-  <a href="https://github.com/ramavathnagaraju">
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Operating System%20-%23E34F26.svg?&style=for-the-badge&logo=Operating System&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/DBMS%20-%231572B6.svg?&style=for-the-badge&logo=DBMS&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Computer Networking%20-%23323330.svg?&style=for-the-badge&logo=ComputerNetworking&logoColor=%23F7DF1E"/>
-  </span>
-    
-<br><br>
+---
 
 <p align="center">
   <h1 align="center">📫 How to reach me 🌏</h1>
@@ -103,49 +73,19 @@
 |--------|----------|---------|
 | <a href="mailto:nagarajucse036@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/nagaraju-ramavath-b67460282"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/Nagaraju888941"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> |
  
-
 <br><br>
 
-
- <p align="center">
+<p align="center">
   <h1 align="center">📫 Summary Of My Github Status</h1>
 </p>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=ramavathnagaraju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<table align="center" border="1">
-    <tr align="center">
-        <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavathnagaraju&theme=vision-friendly-dark&show_icons=true" /></td>
-    </tr>
-    <tr align="center">
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramavathnagaraju&theme=github_dark" /></td>
-         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramavathnagaraju&theme=vision-friendly-dark&show_icons=true" /></td>
-        <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramavathnagaraju&theme=github_dark"/></td>
-    </tr>
-    <tr align="center">
-        <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramavathnagaraju&theme=github_dark"/></td>
-    </tr>
-    <tr align="center">
-        <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramavathnagaraju&theme=vision-friendly-dark" alt="ramavathnagaraju" /></td>
-    </tr>
-</table>
-  
-  
- <p align="center">
-  <h1 align="center">Summary Of My Github Live Graph</h1>
-</p>  
-        
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramavathnagaraju&theme=github_dark)
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ramavathnagaraju&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
 
 <p align="center">
   <h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
