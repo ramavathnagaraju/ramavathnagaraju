@@ -155,7 +155,7 @@
 </p>
 
 <p align="center">
-  <h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
+  <h1 align="center">Thanks for checking out my GitHub Profile!🙏 🙏</h1>
 </p>
 
 
