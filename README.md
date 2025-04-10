@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ramavath+Nagaraju+😉;I'm+VLSI+Design+and+Verification+Engineer;"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ramavath+Nagaraju+😉; I'm+VLSI+Design+and+Verification+Engineer;"></a>
 </h1>
 
 <img align="right" alt="webp" src="https://github.com/ramavathnagaraju/ramavathnagaraju/blob/main/human2.webp?raw=true" width="450" height="300" />
@@ -38,13 +38,13 @@
 - Implemented advanced noise cancellation techniques, including bandpass and notch filtering, to enhance EEG signal quality for epilepsy detection.
 - Developed and optimized machine learning models, achieving 98.52% accuracy for early seizure detection using CNNs.
 - Applied feature extraction methods and addressed dataset imbalances using SMOTE for improved model performance.
-- **Tools & Technologies:** EEG Signal Processing, Python, MATLAB, Machine Learning (CNNs), SMOTE  
+- **Tools & Technologies:** EEG Signal Processing, Python, MATLAB, Machine Learning (CNNs), (SMOTE)  
 
 ### **8-bit Hardwired Processor | Verilog HDL**
 - Designed and implemented a functional 8-bit hardwired processor capable of executing 14 MRI (Memory Reference Instructions) and 8 Non-MRI instructions.
 - Supported both direct and indirect addressing modes for efficient memory access.
 - Optimized for rapid and deterministic execution with hard-coded instruction sets.
-- **Tools & Technologies:** Verilog HDL, Xilinx Vivado  
+- **Tools & Technologies:** Verilog HDL, Xilinx Vivado. 
 
 ---
 
